@@ -1,5 +1,7 @@
 
-# Lihong Zhang's Portfolio: ### https://lihongzhang2023.github.io/portfolio/
+# Lihong Zhang's Portfolio: 
+### https://lihongzhang2023.github.io/portfolio/
+
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
