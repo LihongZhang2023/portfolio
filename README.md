@@ -11,8 +11,8 @@ In today’s digital world, the ability to make data-driven decisions and create
 
 # What I hope to learn
 Through the Telling Story with Data course, I hope to learn:
-1. designing data visualization more effectively.
-2. New tools and techniques for data visualization and analystics
+1. designing data visualization more effectively;
+2. New tools and techniques for data visualization and analystics;
 3. New ways to represent data about my work.
    
 
