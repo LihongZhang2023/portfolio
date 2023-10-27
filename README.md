@@ -3,20 +3,16 @@
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  My name is Lihong Zhang (She/Her). I have been an employee at Carnegie Mellon University since 2018. I enrolled in Master of Applied Second Acquisition program at Dietrich College in Auguest 2018 and graduated in December 2021. Following my graduation, I decided to pursue another graduate degree in Public Management at Heinz College to futher my knowledge on Technology, analytics and leadership practice.  I realized Data nalytics is an important skill for business. In today’s digital world, the ability to make data-driven decisions and create strategy informed by analysis is central to successful leadership in any industry. I 
+Hi!  My name is Lihong Zhang (She/Her). I have been an employee at Carnegie Mellon University since 2018. I enrolled in Master of Applied Second Acquisition program at Dietrich College in Auguest 2018 and graduated in December 2021. Following my graduation, I decided to pursue another graduate degree in Public Management at Heinz College to futher my knowledge on Technology, analytics and leadership practice.
+
+In today’s digital world, the ability to make data-driven decisions and create strategy informed by analysis is central to successful leadership in any industry. I realized Data analytics is an important skill for institutions and businesses. I have taken data science related courses such as Database Management, Data Analytics with Tableau in previous semesters. And I plan to dive deeper into data anaylitics along the way.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+Through the Telling Story with Data course, I hope to learn:
+1. design data visualization more effectively.
+2. New tools and techniques for data visualization and analystics
+3. New ways to represent data about my work.
+   
 
 # Portfolio
 
