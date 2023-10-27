@@ -1,9 +1,9 @@
 
-# Portfolio
+# Lihong Zhang's Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  My name is Lihong Zhang. I'm in Master of Public Management program at Carnegie Mellon University. I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi!  My name is Lihong Zhang (She/Her). I have been an employee at Carnegie Mellon University since 2018. I enrolled in Master of Applied Second Acquisition program at Dietrich College in Auguest 2018 and graduated in December 2021. Following my graduation, I decided to pursue another graduate degree in Public Management at Heinz College to futher my knowledge on Technology, analytics and leadership practice.  I realized Data nalytics is an important skill for business. In today’s digital world, the ability to make data-driven decisions and create strategy informed by analysis is central to successful leadership in any industry. I 
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
