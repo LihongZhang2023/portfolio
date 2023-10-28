@@ -14,6 +14,7 @@ Through the Telling Story with Data course, I hope to learn:
 1. designing data visualization more effectively;
 2. New tools and techniques for data visualization and analystics;
 3. New ways to represent data about my work.
+   
 I would like to deploy the knowleage I learn from this course for cost analysis and spend trend prediction, and ultimately provide leadership cost-effective solutions for business development.
 ![Image](data-analytics.jpg)
 
@@ -26,8 +27,11 @@ I would like to deploy the knowleage I learn from this course for cost analysis 
 
 
 ## Final project
-Below section will be populated when the final project is developed
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
+Below section will be populated when the final project is developed    
+
+[Part I](final-project-part-one)      
+
+[Part II](final-project-part-two)     
+
 [Part III](final-project-part-three)
 
