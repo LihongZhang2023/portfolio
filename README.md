@@ -14,21 +14,19 @@ Through the Telling Story with Data course, I hope to learn:
 1. designing data visualization more effectively;
 2. New tools and techniques for data visualization and analystics;
 3. New ways to represent data about my work.
-   
+I would like to deploy the knowleage I learn from this course for cost analysis and spend trend prediction, and ultimately provide leadership cost-effective solutions for business development.
 
 # Portfolio
 
-
-
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+Below section will be populated when the final project is developed
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
