@@ -2,10 +2,9 @@
 
 ## General government debtTotal, % of GDP, 2021
 <iframe src="https://data.oecd.org/chart/7eT9" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7eT9" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
-
-## Japan is Leading the Debt, 1995-2022           
+             
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1699151295288');                   
+  var divElement = document.getElementById('viz1699152055652');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
