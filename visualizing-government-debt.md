@@ -23,7 +23,8 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-###Summary
+###Summary    
+
 Bar chart is useful when comparing categaries data, The height of bars are intuitive comparison for difference values. It highlights differences, show trends and outliers, and reveal historical highs and lows at a glance. Therefore, We chose to use bar chart to dispaly the debt per GDP between countries becasue country is categorical. 
 
 Heat map works best for presenting trends in dimensions that have more variables as it allows to consist of one or more dimensions and one or two measures. We would like to see the debt per GDP trends over the time and compare them between all the countries, a heat map is the best choice for this purpose. By sorting the values in decenting order, We can quickly figure out that Japan, Greece, Italy and Belgium are leading the debts in 2021.
