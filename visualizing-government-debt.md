@@ -22,3 +22,11 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+###Summary
+Bar chart is useful when comparing categaries data, The height of bars are intuitive comparison for difference values. It highlights differences, show trends and outliers, and reveal historical highs and lows at a glance. Therefore, We chose to use bar chart to dispaly the debt per GDP between countries becasue country is categorical. 
+
+Heat map works best for presenting trends in dimensions that have more variables as it allows to consist of one or more dimensions and one or two measures. We would like to see the debt per GDP trends over the time and compare them between all the countries, a heat map is the best choice for this purpose. By sorting the values in decenting order, We can quickly figure out that Japan, Greece, Italy and Belgium are leading the debts in 2021.
+
+Line chart is a informative way to represent changes that are spread over different time periods. I chose to use line chart to display the trend of debt per GDP for Japan comparing with the other G7 countries over the period of 1995 to 2022, because I would like audience to see the change of the debt per GDP trends over the time for Japan while being able to notice the gap beteen Japan and the other countries. I assigned a bright orange color to represent Japan (also indicate as debt) whereas grayed out the other countries so that the trend for japan would stand out. A verticle reference line would help audience to notice immediately that the significant year that Japan started to become the top debtor is 1999. 
+
