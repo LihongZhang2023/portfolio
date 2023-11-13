@@ -12,5 +12,5 @@
 </script>Text here...    
 
 ### Reflection    
-Link to the original visualization:2023/W17: [Biggest Tomato & Potato Producers](https://data.world/makeovermonday/2023w17)https://data.world/makeovermonday/2023w17)    
+Link to the original visualization:2023/W17: [Biggest Tomato & Potato Producers](https://data.world/makeovermonday/2023w17)   
 I went through several visulization on the MakeOverMOnday website, the Tomato/potato Producer visualization caught my attention.
