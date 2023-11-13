@@ -39,27 +39,16 @@ A: What is the unit of measure for dollars?  Is it bushels of tomatoes, or gross
 
 #### Feedback 2 (provided by a colleague at the university, 55 years old)   
 Q1. Can you tell me what you think this is?  
-
 A:  A research on crops produced worldwide.  
-
 Q2. Can you describe to me what this is telling you?  
-
 A: China, India and Turkey are the top three tomato producers.  
-
 Q3. Is there anything you find surprising or confusing?
-
 A: What do the numbers stand for, sum of sales?  
-
 Q4. Who do you think is the intended audience for this?
-
 A: General public  
-
 Q5. Is there anything you would change or do differently?  
-
 A:  Clarify the values  
-
 Q6. Is there any other information you would like to know but you couldn't find from the graph?  
-
 A: I'm curious about the ranking in other years.
 
 Based on the feedback, I realized the values have been mislabeled as currency, and the title for x-axis was hidden which caused confusion. The feedback also suggests that besides the ranking of tomato in 2021, audience may also be interested to know some related information such as rankings in different years or different crops. The bar chart works effectively for conveying a clear idea as it's supposed to. Therefore I kept the bar chart. In addition, I enabled the filters for Year and Item type so that more information will be available for audience via a simple bar chart. The final version of the visualization displays a list of top tomato or Potato producers. A slide bar "Top Producer" created by Parameter and Set enables viewers to select how many top producers they would like to see.
