@@ -21,4 +21,34 @@ At 1st glance, it's a very colorful viz. However, there are too many colors comp
 With the above thought in mind, my 1st step is to sketch another version of bar chart. I eliminated the subtitle and indicated the Value Weight by Ton as the title of x-axis. Logos of the countries is duplicate information with the country names, it needs to be removed. I also changed the format of values with measure of thousand to make it easier for audience's eyes, and align them all on the right next to the bars. As a solution for overused colors, I used single hue of orange color and gradient saturation for different scale of values/bars. I drafted a visulization in Tableau as below:  
 ![Image](image001.png)
 
-My next step is to obtain feedback from others for improvement. I emailed a questionaire with my viz draft to one of my colleagues and a friend, and received prompt responses.
+My next step is to obtain feedback from others for improvement. I emailed a questionaire with my viz draft to one of my colleagues and a friend, and received prompt responses.  
+
+#### Feedback 1 (provided by a General Manager of a corporation, 48 years old)   
+Q1. Can you tell me what you think this is?
+A:  Chart of value of exported tomatoes from various countries
+Q2. Can you describe to me what this is telling you?
+A: That China exports the most, by a large margin of more than 3x the next largest exporter
+Q3. Is there anything you find surprising or confusing?
+A: I am not sure if this is the just $ value size of tomato industry in the country, or the $value of exports—the “value” is not defined in any specific term.
+Q4. Who do you think is the intended audience for this?
+A: Economic conference, or readers of government report.
+Q5. Is there anything you would change or do differently?
+A:  Clarify what the value represents—export, industry revenues, etc. it is not clear.
+Q6. Is there any other information you would like to know but you couldn't find from the graph?
+A: What is the unit of measure for dollars?  Is it bushels of tomatoes, or gross sales on some kind of international tomato market?   
+
+#### Feedback 2 (provided by a colleague at the university, 55 years old)   
+Q1. Can you tell me what you think this is?
+A:  A research on crops produced worldwide.
+Q2. Can you describe to me what this is telling you?
+A: China, India and Turkey are the top three tomato producers.
+Q3. Is there anything you find surprising or confusing?
+A: What do the numbers stand for, sum of sales?
+Q4. Who do you think is the intended audience for this?
+A: General public
+Q5. Is there anything you would change or do differently?
+A:  Clarify the values
+Q6. Is there any other information you would like to know but you couldn't find from the graph?
+A: I'm curious about the ranking in other years.
+
+Based on the feedback, I realized the values have been mislabeled as currency, and the title for x-axis was hidden which caused confusion. The feedback also suggests that besides the ranking of tomato in 2021, audience may also be interested to know some related information such as rankings in different years or different crops. The bar chart works effectively for conveying a clear idea as it's supposed to. Therefore I kept the bar chart. In addition, I enabled the filters for Year and Item type so that more information will be available for audience via a simple bar chart. The final version of the visualization displays a list of top tomato or Potato producers. A slide bar "Top Producer" created by Parameter and Set enables viewers to select how many top producers they would like to see.
