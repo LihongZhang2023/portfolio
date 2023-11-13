@@ -12,5 +12,10 @@
 </script>Text here...    
 
 ### Reflection    
-Link to the original visualization:2023/W17: [Biggest Tomato & Potato Producers](https://data.world/makeovermonday/2023w17)   
-I went through several visulization on the MakeOverMOnday website, the Tomato/potato Producer visualization caught my attention.
+Link to the original visualization:  [2023/W17: Biggest Tomato & Potato Producers](https://data.world/makeovermonday/2023w17) 
+   
+While I went through several visulizations on the MakeOverMOnday website, the Tomato/potato Producer visualization caught my eyes. Besides tamotas are my favorite vegitables, I know there are a lot to look into for improvement.
+
+At 1st glance, it's a very colorful viz. However, there are too many colors competing for attention which makes it hard to tell what is the main focus. The large font for the title works well, so I figure out immediately the viz is showing top tomato producers (not Potato). The drawback of the viz is that there are too much distraction. For instance, too many colors used for the bars (countries). The tomato background is distracting, adding more unnecessary colors to the already too busy viz. Moreover, the donut chart with year on lower right is confusing, it took me a while to figure out that it works as a filter for Year. The design is creative however unnecessary. It misleads audience to pay more attention to the filter than the graph itself. 
+
+With the above thought in mind, my 1st step is to sketch another version of bar chart.  eliminate subtitle. The concept of Tonnes of Tomatoes can be indicated by x-axis. I would remove logos of the countries as well, as there are already countries names for y-axis, no need of the duplicated information. The donut chart should be removed and replaced with a standard filter. I may change the format of values with measure of thousand to make it easier for audience's eyes, and align them all on the right next to the bars. As a solution for overused colors, I would remove the background photo and use single hue of color and gradient saturation for different scale of values/bars
