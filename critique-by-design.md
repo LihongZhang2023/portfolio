@@ -9,4 +9,8 @@
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>Text here...
+</script>Text here...    
+
+### Reflection    
+Link to the original visualization:2023/W17: [Biggest Tomato & Potato Producers](https://data.world/makeovermonday/2023w17)https://data.world/makeovermonday/2023w17)    
+I went through several visulization on the MakeOverMOnday website, the Tomato/potato Producer visualization caught my attention.
