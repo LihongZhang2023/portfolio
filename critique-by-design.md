@@ -9,7 +9,7 @@
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>Text here...    
+</script>  
 
 ### Reflection    
 Link to the original visualization:  [2023/W17: Biggest Tomato & Potato Producers](https://data.world/makeovermonday/2023w17) 
@@ -21,7 +21,7 @@ At 1st glance, it's a very colorful viz. However, there are too many colors comp
 With the above thought in mind, my 1st step is to sketch another version of bar chart. I eliminated the subtitle and indicated the Value Weight by Ton as the title of x-axis. Logos of the countries is duplicate information with the country names, it needs to be removed. I also changed the format of values with measure of thousand to make it easier for audience's eyes, and align them all on the right next to the bars. As a solution for overused colors, I used single hue of orange color and gradient saturation for different scale of values/bars. I drafted a visulization in Tableau as below:  
 ![Image](image001.png)
 
-My next step is to obtain feedback from others for improvement. I emailed a questionaire with my viz draft to one of my colleagues and a friend, and received prompt responses.  
+My next step is to obtain feedback from others for improvement. I emailed a questionaire with my viz draft to one of my colleagues, and received prompt responses as below: 
 
 #### Feedback 1 (provided by a General Manager of a corporation, 48 years old)   
 Q1. Can you tell me what you think this is?   
@@ -35,7 +35,9 @@ A: Economic conference, or readers of government report.
 Q5. Is there anything you would change or do differently?  
 A:  Clarify what the value represents—export, industry revenues, etc. it is not clear.  
 Q6. Is there any other information you would like to know but you couldn't find from the graph?   
-A: What is the unit of measure for dollars?  Is it bushels of tomatoes, or gross sales on some kind of international tomato market?   
+A: What is the unit of measure for dollars?  Is it bushels of tomatoes, or gross sales on some kind of international tomato market?      
+
+Based on the feedback, I realized the values have been mislabeled as currency, and the title for x-axis was hidden which caused confusion. I corrected the value to number format instead of currency. However, bringing back the hidden title for x-axis wasn't straight forward. I searched online and finally found a solution, tranposing the two axises fixed the issue. After I sent the updated sketch to one of my friends. I received feedback as following:  
 
 #### Feedback 2 (provided by a colleague at the university, 55 years old)   
 Q1. Can you tell me what you think this is?  
@@ -51,4 +53,4 @@ A:  Clarify the values
 Q6. Is there any other information you would like to know but you couldn't find from the graph?  
 A: I'm curious about the ranking in other years.
 
-Based on the feedback, I realized the values have been mislabeled as currency, and the title for x-axis was hidden which caused confusion. The feedback also suggests that besides the ranking of tomato in 2021, audience may also be interested to know some related information such as rankings in different years or different crops. The bar chart works effectively for conveying a clear idea as it's supposed to. Therefore I kept the bar chart. In addition, I enabled the filters for Year and Item type so that more information will be available for audience via a simple bar chart. The final version of the visualization displays a list of top tomato or Potato producers. A slide bar "Top Producer" created by Parameter and Set enables viewers to select how many top producers they would like to see.
+The feedback suggests that besides the ranking of tomato in 2021, audience may also be interested to know some related information such as rankings in different years or different crops. The bar chart works effectively for conveying a clear idea as it's supposed to. Therefore I kept the bar chart. In addition, I enabled the filters for Year and Item type so that more information will be available for audience via a simple bar chart. The final version of the visualization displays a list of top tomato or Potato producers. A slide bar "Top Producer" created by Parameter and Set enables viewers to select how many top producers they would like to see.
