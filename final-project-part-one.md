@@ -1,16 +1,15 @@
 | [home page](https://lihongzhang2023.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+Video games are popular topics among young generations. Although it has been around for only several decades, from arcade to PC, then mobile and now virtual reality, video games have evolved tremendously over time. Many people may be curious to know what kind of games most people are playing, how has the trend changed over time? And how will the trend go in the future? My project is to analyze some video games related dataset from data.world.com to discover answers for these questions in visualizations.  
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
-Text here...
+The project comprises of three parts:
+1.	Most played and being playing game genres overview. I plan to use a bar chart graph to give audience an overview of the ranking showing the most popular games overalls.
+2.	Most played game genres from 1980 to 2023. A line chart indicates how the trend of games changed from 1980 to 2023, in comparison with game sales trend. We may discover some sign of evolvement in game industry in terms of platforms and notice a huge drop of Adventure Games in both popularity and sales.
+3.	Five-year forecast. Ideally, I will be able to show audience a five-year forecast of popular game genres. 
+To summarize the concept of the project, video games go back a long way for five decades, adventure games have been always most popular. However, there is a huge fall back in recent years.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
