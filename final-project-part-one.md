@@ -22,20 +22,12 @@ North America Sales Forecast in Comparison with Popular Forecast
 ![North America Sales Forecast](sketches/NASalsForecast.png)
 
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+# The data   
+Data source:  
+1. Popular Video Games data: Popular Video Games 1980 - 2023, URL: [https://data.world/yansian/popular-video-games](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023)
+Description: This dataset contains a list of video games dating from 1980 to 2023, with release dates, user review rating, numbers of games users are playing and have played, and numbers of games in wishlist.
+   
+2. Video Games Sales data: Video Games Sales (1980-2020), URL: [https://data.world/learn-to-viz/martevizanaltica202307/workspace/file?filename=video_games_sales.csv](https://data.world/sumitrock/videogame/workspace/file?filename=Video_Games.csv))
+Description: This data set contains vedio Names, Platform, Year of Release, Genre, Publisher, Sales of North America, EU, Japan, and Global. We will only use North America sales data in this project.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
