@@ -11,10 +11,16 @@ The project comprises of three parts:
 3.	Five-year forecast. Ideally, I will be able to show audience a five-year forecast of popular game genres. 
 To summarize the concept of the project, video games go back a long way for five decades, adventure games have been always most popular. However, there is a huge fall back in recent years.
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+## Initial sketches  
+1st Part, data viz for Popular Genres Overall
+![Popular Genres Overall](sketches/PopularGenresOverall.png)
+2nd Part, Most played game genres from 1980 to 2023
+![Popular Genres Trend](sketches/Popular Trend.png)
+Five year forecast
+![Popular Genres Forecast](sketches/PopularForecast.png)
+North America Sales Forecast in Comparison with Popular Forecast
+![North America Sales Forecast](sketches/NASalsForecast.png)
 
-Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
