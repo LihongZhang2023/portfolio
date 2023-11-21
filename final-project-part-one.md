@@ -28,9 +28,12 @@ North America Sales Forecast in Comparison with Popular Forecast
 # The data   
 Data source:  
 1. Popular Video Games data: Popular Video Games 1980 - 2023, URL: [https://data.world/yansian/popular-video-games](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023)
+   
 Description: This dataset contains a list of video games dating from 1980 to 2023, with release dates, user review rating, numbers of games users are playing and have played, and numbers of games in wishlist.
    
 2. Video Games Sales data: Video Games Sales (1980-2020), URL: [https://data.world/learn-to-viz/martevizanaltica202307/workspace/file?filename=video_games_sales.csv](https://data.world/sumitrock/videogame/workspace/file?filename=Video_Games.csv))
+   
 Description: This data set contains vedio Names, Platform, Year of Release, Genre, Publisher, Sales of North America, EU, Japan, and Global. We will only use North America sales data in this project.
 
-# Method and medium
+# Method and medium  
+The project utilizies various tools to compose the data story. The data story is presented digitally using Shorthand with visual contents and a few text to highlight the main takwaway of the story.
