@@ -15,7 +15,7 @@ To summarize the concept of the project, video games go back a long way for five
 1st Part, data viz for Popular Genres Overall
 ![Popular Genres Overall](sketches/PopularGenresOverall.png)
 2nd Part, Most played game genres from 1980 to 2023
-![Popular Genres Trend](sketches/Popular Trend.png)
+![Popular Genres Trend](sketches/PopularTrend.png)
 Five year forecast
 ![Popular Genres Forecast](sketches/PopularForecast.png)
 North America Sales Forecast in Comparison with Popular Forecast
