@@ -1,7 +1,8 @@
 | [home page](https://lihongzhang2023.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-The data story comprises of four components:
+The data story comprises of four components (Data source is not added to these sketches. However, included in the viz in Shorthand presentation):   
+
 ### 1. Setup: 
 <div class='tableauPlaceholder' id='viz1700958524798' style='position: relative'><noscript><a href='#'><img alt='Numbers of Game Players Keep Rising ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VideoGame-SetUp1&#47;Setup1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='VideoGame-SetUp1&#47;Setup1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VideoGame-SetUp1&#47;Setup1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -66,10 +67,11 @@ Objectives for the project and questions aiming the goals are listed as follows:
 |--------------------------------|---------------------------------------------------------------------|
 |Well defined user groups        | Who do you think is the intended audience for this?                 |
 |Clear outline of story          | Can you describe to me what the data story telling you?                 |
-|Appropriate data visualization  | Do you think the visuals relevant to the story?                 |
-|Compelling story                | Do you think the story makes sense to you?               |
-|Clear outline of story          | Is there anything you find confusing?               |
-|Clear outline of story          | Is there anything you would change or do differently?               |
+|Appropriate data visualization  | Do you think the visualizations relevant to the story?                 |
+|Compelling story                | Does the story make sense to you?               |
+|Effective delivery of the concept  | Is there anything you find confusing?              |
+|User-friendly presentation      | Is the layout of the visual/text easy to view?              |
+|Overall improvement         | Is there anything you would change or do differently?               |
 
 
 
@@ -80,9 +82,15 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Who do you think is the intended audience for this?     | Insightful feedback            |             |             |
+|Can you describe to me what the data story telling you? |                             |             |             |
+|Do you think the visualizations relevant to the story?|                                |             |             |
+|Does the story make sense to you? |                                |             |             |
+|Is there anything you find confusing?  |                                |             |             |
+|Is the layout of the visual/text easy to view?|                                |             |             |
+|Do you think the layout of the visual/text easy to view?|                                |             |             |
+|Is there anything you would change or do differently? |                                |             |             |
+
 
 
 # Identified changes for Part III
