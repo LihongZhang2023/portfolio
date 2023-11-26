@@ -60,15 +60,16 @@ The data story comprises of four components:
 Primary users are expected to be video game developers. Game palyers may also interested to learn popular genres and trends of video games. Ideally I would like to recevie feedback for the draft of the presentation from video game developers. However, I decide to interview some friends or colleagues, or whoever is availale providing feedback due to lack of connection with the specific field.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+Objectives for the project and questions aiming the goals are listed as follows:  
 
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Goal                           | Questions to Ask                                                    |
+|--------------------------------|---------------------------------------------------------------------|
+|Well defined user groups        | Who do you think is the intended audience for this?                 |
+|Clear outline of story          | Can you describe to me what the data story telling you?                 |
+|Appropriate data visualization  | Do you think the visuals relevant to the story?                 |
+|Compelling story                | Do you think the story makes sense to you?               |
+|Clear outline of story          | Is there anything you find confusing?               |
+|Clear outline of story          | Is there anything you would change or do differently?               |
 
 
 
