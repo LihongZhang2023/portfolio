@@ -3,7 +3,7 @@
 # Wireframes / storyboards
 The data story comprises of four components (Data source is not added to these sketches. However, included in the viz in Shorthand presentation):   
 
-### 1. Setup: 
+### 1. Setup: Video games are more and more popular, especially adventure games
 <div class='tableauPlaceholder' id='viz1700958524798' style='position: relative'><noscript><a href='#'><img alt='Numbers of Game Players Keep Rising ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VideoGame-SetUp1&#47;Setup1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='VideoGame-SetUp1&#47;Setup1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VideoGame-SetUp1&#47;Setup1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1700958524798');                    
@@ -26,7 +26,7 @@ Data Source: Popular Video Games 1980 - 2023, https://www.kaggle.com/datasets/ar
 </script>  
 Data Source: Popular Video Games 1980 - 2023, https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023  
 
-### 2. Conflicts: 
+### 2. Conflicts: There are big swing for popularity, popularity of adventure games falls suddenly in recent years
 <div class='tableauPlaceholder' id='viz1700960085955' style='position: relative'><noscript><a href='#'><img alt='Adventure Games Has Been Less Popular in Recent Years ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VideoGame-Conflicts&#47;Conflicts&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='VideoGame-Conflicts&#47;Conflicts' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VideoGame-Conflicts&#47;Conflicts&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1700960085955');                    
@@ -36,7 +36,7 @@ Data Source: Popular Video Games 1980 - 2023, https://www.kaggle.com/datasets/ar
 </script>   
 Data Source: Popular Video Games 1980 - 2023, https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023  
 
-### 3. Resolution: 
+### 3. Resolution: Forecasted Video games sales stay stable, with action games leading the way
 <div class='tableauPlaceholder' id='viz1700959056462' style='position: relative'><noscript><a href='#'><img alt='Balanced Sales Trend by Popular Genres ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VideoGame-Resolutions&#47;Resolution&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='VideoGame-Resolutions&#47;Resolution' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VideoGame-Resolutions&#47;Resolution&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                 
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1700959056462');                    
@@ -48,7 +48,7 @@ Data Source: Popular Video Games 1980 - 2023, https://www.kaggle.com/datasets/ar
 </script>   
 Data Source:Video Games Sales, https://data.world/learn-to-viz/martevizanaltica202307/workspace/file?filename=video_games_sales.csv  
 
-### 4. Call for Action:
+### 4. Call for Action: There is room for development of Shooter and Role-Play games based on video game market needs.
 <div class='tableauPlaceholder' id='viz1700959152539' style='position: relative'><noscript><a href='#'><img alt='2022 New Release Games in Different Genres ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VideoGame-Action&#47;CallforAction&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='VideoGame-Action&#47;CallforAction' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VideoGame-Action&#47;CallforAction&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1700959152539');                    
