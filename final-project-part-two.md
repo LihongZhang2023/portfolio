@@ -80,12 +80,12 @@ Objectives for the project and questions aiming the goals are listed as follows:
 
 
 ## Interview findings   
-I conducted interviews whith three individuals. Interviewee 1 is male in his 40's, self identified as a socializer. Interviewee 2 is male in his 20's with occasional gaming experience. Interviewee 3 is male in his 50's, who hasn't played a game for decades. I summarized the result of the interviews into the following table:
+I conducted interviews whith three individuals. Interviewee 1 is a male in his 40's, self identified as a socializer. Interviewee 2 is a male in his 20's with occasional gaming experience. Interviewee 3 is a male in his 50's, who hasn't played a game for decades. I summarized the resulst of the interviews and presented as the following table:
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Who do you think is the intended audience for this?     |  executives at game companies  |    Video game developer  |  General public           |
-|Can you describe to me what the data story telling you? |   That popularity of various game genres can change dramatically over short term, and even if stable over long term. |       Certain genres are likely to remain consistently popular at a consistent level, while other genres will rise and fall in popularity over years.     |Action and adventure games are dominant genres|
+| Who do you think is the intended audience for this?     |  Executives at game companies  |    Video game developer  |  General public           |
+|Can you describe to me what the data story telling you? |   Popularity of various game genres can change dramatically over short term, and even if stable over long term. |       Certain genres are likely to remain consistently popular at a consistent level, while other genres will rise and fall in popularity over years.     |Action and adventure games are dominant genres|
 |Do you think the visualizations relevant to the story?|   Some what. The general trends are presented, but the reasons behind trends are not presented.      |       Yes      |   Yes          |
 |Does the story make sense to you? |No, the story is confusing—the trendlines are not consistent, difficult to follow. | Some parts. For instance, Adventure is the most popular genre  | I think so, clarifying why some genres have sudden changed may help connecting the story            |
 |Is there anything you find confusing?  | Explain some background reason or assumptions behind change in popularity of certain game genres.  |   why Adventure and Action are both hugely popular, then trummpet in recent years?          |          no   |
@@ -94,22 +94,15 @@ I conducted interviews whith three individuals. Interviewee 1 is male in his 40'
 
 
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
+# Identified changes for Part III  
+The key findings have been summarized into a table"
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Story line needs logical connections | find out the cause of popular trend swing over time and sudden fall in 2022 |
+|  visualization needs improvement         |  Remove titles and substiles from graphs and incorporate them into plot/text |
+|  Presentation layout needs to be refined |  Use appopriate layout for each visual based on the contents and message the visual delivers|
 
-> ...include any final thoughts you have here. 
-
-Text here!
+The feedback and suggestions I received from the three interviewees are very insightful. However, There are some limitation due to interviewees' background. None of the three interviewees has any video game development experience. For projects of larger scale,  increasing interview group with more diversified background may benefit the projects with more comprehensiven feedback.
 
 
 
