@@ -96,11 +96,12 @@ I conducted interviews whith three individuals. Interviewee 1 is a male in his 4
 
 # Identified changes for Part III  
 The key findings have been summarized into a table"
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
+| Research synthesis                       | Anticipated changes for Part III                                              |
+|------------------------------------------|-----------------------------------------------------------------------------|
 | Story line needs logical connections | find out the cause of popular trend swing over time and sudden fall in 2022 |
 |  visualization needs improvement         |  Remove titles and substiles from graphs and incorporate them into plot/text |
-|  Presentation layout needs to be refined |  Use appopriate layout for each visual based on the contents and message the visual delivers|
+|  Presentation layout needs to be refined |  Use appopriate layout for each visual based on the contents and message the visual delivers|  
+
 
 The feedback and suggestions I received from the three interviewees are very insightful. However, There are some limitation due to interviewees' background. None of the three interviewees has any video game development experience. For projects of larger scale,  increasing interview group with more diversified background may benefit the projects with more comprehensiven feedback.
 
