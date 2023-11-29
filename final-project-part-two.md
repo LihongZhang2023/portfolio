@@ -79,17 +79,15 @@ Objectives for the project and questions aiming the goals are listed as follows:
 
 
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
+## Interview findings   
+I conducted interviews whith three individuals. Interviewee 1 is male in his 40's, self identified as a socializer. Interviewee 2 is male in his 20's with occasional gaming experience. Interviewee 3 is male in his 50's, who hasn't played a game for decades. I summarized the result of the interviews into the following table:
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Who do you think is the intended audience for this?     | Insightful feedback            |             |             |
-|Can you describe to me what the data story telling you? |                             |             |             |
-|Do you think the visualizations relevant to the story?|                                |             |             |
-|Does the story make sense to you? |                                |             |             |
+| Who do you think is the intended audience for this?     |  executives at game companies  |    Video game developer  |  General public           |
+|Can you describe to me what the data story telling you? |   That popularity of various game genres can change dramatically over short term, and even if stable over long term. |             |Certain genres are likely to remain consistently popular at a consistent level, while other genres will rise and fall in popularity over years.             |Action and adventure games are dominant genres
+|Do you think the visualizations relevant to the story?|   Some what. The general trends are presented, but the reasons behind trends are not presented.      |       Yes      |   Yes          |
+|Does the story make sense to you? |No, the story is confusing—the trendlines are not consistent, difficult to follow. | Some parts, for instance, Adventure is the most popular  | I think so, clarify why some genres have sudden change may help connecting the story            |
 |Is there anything you find confusing?  |                                |             |             |
 |Is the layout of the visual/text easy to view?|                                |             |             |
 |Do you think the layout of the visual/text easy to view?|                                |             |             |
