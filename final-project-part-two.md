@@ -85,13 +85,12 @@ I conducted interviews whith three individuals. Interviewee 1 is male in his 40'
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Who do you think is the intended audience for this?     |  executives at game companies  |    Video game developer  |  General public           |
-|Can you describe to me what the data story telling you? |   That popularity of various game genres can change dramatically over short term, and even if stable over long term. |             |Certain genres are likely to remain consistently popular at a consistent level, while other genres will rise and fall in popularity over years.             |Action and adventure games are dominant genres
+|Can you describe to me what the data story telling you? |   That popularity of various game genres can change dramatically over short term, and even if stable over long term. |       Certain genres are likely to remain consistently popular at a consistent level, while other genres will rise and fall in popularity over years.     |Action and adventure games are dominant genres|
 |Do you think the visualizations relevant to the story?|   Some what. The general trends are presented, but the reasons behind trends are not presented.      |       Yes      |   Yes          |
-|Does the story make sense to you? |No, the story is confusing—the trendlines are not consistent, difficult to follow. | Some parts, for instance, Adventure is the most popular  | I think so, clarify why some genres have sudden change may help connecting the story            |
-|Is there anything you find confusing?  |                                |             |             |
-|Is the layout of the visual/text easy to view?|                                |             |             |
-|Do you think the layout of the visual/text easy to view?|                                |             |             |
-|Is there anything you would change or do differently? |                                |             |             |
+|Does the story make sense to you? |No, the story is confusing—the trendlines are not consistent, difficult to follow. | Some parts. For instance, Adventure is the most popular genre  | I think so, clarifying why some genres have sudden changed may help connecting the story            |
+|Is there anything you find confusing?  | Explain some background reason or assumptions behind change in popularity of certain game genres.  |   why Adventure and Action are both hugely popular, then trummpet in recent years?          |          no   |
+|Do you think the layout of the visual/text easy to view?|  Popular trend Viz is simple and easy to see the message |         The title and subtile lines would work better as texts in presentation    |   Popularity and sales forecast is informative          |
+|Is there anything you would change or do differently? |     Explain some background reason or assumptions behind change in popularity of certain game genres.                           |  Remove title and subtile lines          | Maybe insert verticle line to indicate dramatical change            |
 
 
 
