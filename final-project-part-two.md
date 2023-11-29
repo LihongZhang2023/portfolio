@@ -95,7 +95,8 @@ I conducted interviews whith three individuals. Interviewee 1 is a male in his 4
 
 
 # Identified changes for Part III  
-The key findings have been summarized into a table:
+The key findings have been summarized into a table:   
+
 | Research synthesis                       | Anticipated changes for Part III                                           |
 |------------------------------------------|----------------------------------------------------------------------------|
 | Story line needs logical connections | find out the cause of popular trend swing over time and sudden fall in 2022 |
