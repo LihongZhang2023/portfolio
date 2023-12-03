@@ -99,6 +99,7 @@ The key findings have been summarized into a table:
 
 | Research synthesis                       | Anticipated changes for Part III                                           |
 |------------------------------------------|----------------------------------------------------------------------------|
+| Story needs a catching title| Change the title for the data story |
 | Story line needs logical connections | find out the cause of popular trend swing over time and sudden fall in 2022 |
 |  visualization needs improvement         |  Remove titles and substiles from graphs and incorporate them into plot/text |
 |  Presentation layout needs to be refined |  Use appopriate layout for each visual based on the contents and message the visual delivers|  
