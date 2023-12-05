@@ -1,9 +1,11 @@
 | [home page](https://lihongzhang2023.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+[Shorthand Presentation](https://carnegiemellon.shorthandstories.com/08529f22-41e7-4a2d-a727-9ac2c229d250/index.html)  
 
-Text here!
+My final topic lands to video games after days of research on datasets. Although myself is not a video game player, My teenage son is a regular video game player. Video games are involved in his daily routine and conversation with his friends. With more people are splashing out on games, boosting video game industry to keep on growing and booming. A data story on video games should benefit video games developers for profits and players who are curious to know what kinds of games other people are playing and popularity trends.  
+
+The data story is based on three data sets:
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
