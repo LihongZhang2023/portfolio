@@ -6,6 +6,14 @@
 My final topic lands to video games after days of research on datasets. Although myself is not a video game player, My teenage son is a regular video game player. Video games are involved in his daily routine and conversation with his friends. With more people are splashing out on games, boosting video game industry to keep on growing and booming. A data story on video games should benefit video games developers for profits and players who are curious to know what kinds of games other people are playing and popularity trends.  
 
 The data story is based on three data sets:
+*Popular Video Games data*: Popular Video Games 1980 - 2023, URL: [https://data.world/yansian/popular-video-games](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023)
+   
+*Video Games Sales data*: Video Games Sales (1980-2020), URL: [https://data.world/learn-to-viz/martevizanaltica202307/workspace/file?filename=video_games_sales.csv](https://data.world/sumitrock/videogame/workspace/file?filename=Video_Games.csv))
+
+*New Video Game Release Data*: Video Games Released in 2022, URL: [[https://data.world/learn-to-viz/martevizanaltica202307/workspace/file?filename=video_games_sales.csv](https://data.world/sumitrock/videogame/workspace/file?filename=Video_Games.csv))](https://www.kaggle.com/datasets/mattop/video-games-released-in-2022)  
+
+Shorthand is great tool for interactive presentation. I was impressed by its ability to enable creating more dynamic storytelling features. However, it was a frustrating process for me as a first time user. Besides the difficulty to find a useful tutorial, the application itself has quite a few limitation. For instance, less flexibility on adding caption or texts on images. In additon to the time constraint for the project, I wasn't able to dive deeper to create an ideal data story with Shorthand.
+
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
