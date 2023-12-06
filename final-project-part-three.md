@@ -5,37 +5,43 @@
 
 My final topic lands to video games after days of research on datasets. Although myself is not a video game player, My teenage son is a regular video game player. Video games are involved in his daily routine and conversation with his friends. With more people are splashing out on games, boosting video game industry to keep on growing and booming. A data story on video games should benefit video games developers for profits and players who are curious to know what kinds of games other people are playing and popularity trends.  
 
-The data story is based on three data sets:
+### The data story is based on three data sets:
 *Popular Video Games data*: Popular Video Games 1980 - 2023, URL: [https://data.world/yansian/popular-video-games](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023)
    
 *Video Games Sales data*: Video Games Sales (1980-2020), URL: [https://data.world/learn-to-viz/martevizanaltica202307/workspace/file?filename=video_games_sales.csv](https://data.world/sumitrock/videogame/workspace/file?filename=Video_Games.csv))
 
-*New Video Game Release Data*: Video Games Released in 2022, URL: [[https://data.world/learn-to-viz/martevizanaltica202307/workspace/file?filename=video_games_sales.csv](https://data.world/sumitrock/videogame/workspace/file?filename=Video_Games.csv))](https://www.kaggle.com/datasets/mattop/video-games-released-in-2022)  
+*New Video Game Release Data*: Video Games Released in 2022, URL: [[https://data.world/learn-to-viz/martevizanaltica202307/workspace/file?filename=video_games_sales.csv](https://data.world/sumitrock/videogame/workspace/file?filename=Video_Games.csv))](https://www.kaggle.com/datasets/mattop/video-games-released-in-2022)    
 
-Shorthand is great tool for interactive presentation. I was impressed by its ability to enable creating more dynamic storytelling features. However, it was a frustrating process for me as a first time user. Besides the difficulty to find a useful tutorial, the application itself has quite a few limitation. For instance, less flexibility on adding caption or texts on images. In additon to the time constraint for the project, I wasn't able to dive deeper to create an ideal data story with Shorthand.
+### The data story consist of four parts:   
+1.	Setup: Numbers of Game Players Keep Rising
+Numbers of game players keep rising since 2002, especially from 2014 to 2022. The momentum is even stronger in coming years.
+Adventure Games Have Been Most Popular Overall
+Adventure games have been played or playing 2.5 times more than the total of other genes.
+2.	Conflicts: Adventure Games Has Been Less Popular in Recent Years
+Adventure games have been overwhelmingly popular than the other genres since 1993. However, the trend has plummeted since 2019.
+3.	Resolution: Balanced Sales Trend by Popular Genres.
+Despite adventure games are most popular among users for decades, video games sales are well balances among those popular genres. Actions games have been best sellers since 2000 to 2015, we are seeing a plunge since 2013. However, forecasted sales for the popular genres should stay stable.
+4.	Call for Action: 2022 New Release Games in Different Genres
+The new games released in 2022 indicates a more balanced distribution among most popular genres. There may be more room for development of Shooter and Role-Play games based on video game market needs.
 
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
-
+There are three major improvements based on feedback from the interviewees.  
+1. Title. After brain storm with assistance of ChatGPT, I changed the titile of the data story to "A Data Odyssey through Video Game Trends", which I believe could better deliver the message through the data.
+2. Story Arc. I was able to figure out the logical connection between each dataset and visualization and tie them up into a story.
+3. Visualization. I added reference lines on the Popularity Trend viz to indicate the start year of video games begin booming, and reference lines for the year of falling.
+4. Presentation. I added more features such as Background Scrollmation, scrollpoints and text over image to make the presentation more engaing.
+   
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
+The data story targets video game developers and players. Some demographic statistics such as video game players gender ratio or age groups may pique the targeted audience's intetrest. A call for producing video games for all ages has been added in the presentation.  
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+I used bright colors for video games genres in visulazation charts considering the nature of video games should be enjoyable and exciting. The colors for each genre are consistent across all charts. In the popularity genre comparison viz, I only highlighted adventure game to minimized potential distraction for audience's view. For the same reason, I filtered out other genres except the top four best seller genres. Adding verticle reference line took a long way. After some research online and playing around, I was able to do so by changing parameters in the Reference Line window (In the pop up window, In “Value” drop down menu, change to the year you would like the vertical line to be located, then select “constant” in the next drop down menu.)  
 
-Text here!
+As a beginner user of Shorthand, I went through the "try and fail" warm up phrase. I chose blue tone for the backgroud of the presentation so that it contrasts with the orange color of the visualizations. Except the 1st and last sections are static, most of sections are either Scrollmation or Scrollpoint. I especially like to use Scrollpoint because it sets the focus of the topics when zooming in or out on an image. It helps audience to follow along and stay engaged.
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
+All referenced articles and images are noted on [Shorthand Presentation](https://carnegiemellon.shorthandstories.com/08529f22-41e7-4a2d-a727-9ac2c229d250/index.html)
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+The final project requires unitilizing multiple digital tools and platforms such as Tableau, Github and Shothand etc. for developing and presenting the data story. It was a great opportunity to explore and experiment new ways to present data. Shorthand is great tool for interactive presentation. I was impressed by its ability to enable creating more dynamic storytelling features. However, it was a frustrating process for me as a first time user. Besides the difficulty to find a useful tutorial, the application itself has some limitation. For instance, little flexibility on layout and size of textbox. I wish I have more time to dive deeper and create an ideal data story for the project.
