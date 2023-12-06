@@ -12,7 +12,7 @@ My final topic lands to video games after days of research on datasets. Although
 
 *New Video Game Release Data*: Video Games Released in 2022, URL: [[https://data.world/learn-to-viz/martevizanaltica202307/workspace/file?filename=video_games_sales.csv](https://data.world/sumitrock/videogame/workspace/file?filename=Video_Games.csv))](https://www.kaggle.com/datasets/mattop/video-games-released-in-2022)    
 
-### The data story consist of four parts:   
+### The data story consists of four parts:   
 1.	Setup: Numbers of Game Players Keep Rising
 Numbers of game players keep rising since 2002, especially from 2014 to 2022. The momentum is even stronger in coming years.
 Adventure Games Have Been Most Popular Overall
