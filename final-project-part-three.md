@@ -5,22 +5,7 @@
 
 My final topic lands to video games after days of research on datasets. Although myself is not a video game player, My teenage son is a regular video game player. Video games are involved in his daily routine and conversation with his friends. With more people are splashing out on games, boosting video game industry to keep on growing and booming. A data story on video games should benefit video games developers for profits and players who are curious to know what kinds of games other people are playing and popularity trends.  
 
-Although video games sound a popular topic, finding useful data set wasn't easy. After days of searching on all resources. I discovered two interesting datasets [Popular Video Games 1980 - 2023](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023) and [Video Games Sales (1980-2020)](https://data.world/sumitrock/videogame/workspace/file?filename=Video_Games.csv) Because the data sets are from defferent resources, values of Measures and dimensions in the datasets are in differenct format. My next step is to clean the data, eliminate null values, rename, group and format field names to make the datasets usable. I came up with some ideas based on the cleaned data to create story arcs. However, I relaized the story were missing logical connection, especially an important element, call for action. I need more data sets to construct a complete story. Luckily, I find another data set [Video Games Released in 2022](https://www.kaggle.com/datasets/mattop/video-games-released-in-2022).  
-
-
-
-### The data story consists of four parts:   
-1.	Setup: Numbers of Game Players Keep Rising
-Numbers of game players keep rising since 2002, especially from 2014 to 2022. The momentum is even stronger in coming years.
-Adventure Games Have Been Most Popular Overall
-Adventure games have been played or playing 2.5 times more than the total of other genes.
-2.	Conflicts: Adventure Games Has Been Less Popular in Recent Years
-Adventure games have been overwhelmingly popular than the other genres since 1993. However, the trend has plummeted since 2019.
-3.	Resolution: Balanced Sales Trend by Popular Genres.
-Despite adventure games are most popular among users for decades, video games sales are well balances among those popular genres. Actions games have been best sellers since 2000 to 2015, we are seeing a plunge since 2013. However, forecasted sales for the popular genres should stay stable.
-4.	Call for Action: 2022 New Release Games in Different Genres
-The new games released in 2022 indicates a more balanced distribution among most popular genres. There may be more room for development of Shooter and Role-Play games based on video game market needs.
-
+Although video games sound a popular topic, finding useful data set wasn't easy. After days of searching on all resources. I discovered two interesting datasets [Popular Video Games 1980 - 2023](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023) and [Video Games Sales (1980-2020)](https://data.world/sumitrock/videogame/workspace/file?filename=Video_Games.csv) Because the data sets are from defferent resources, values of Measures and dimensions in the datasets are in differenct format. My next step is to clean the data, eliminate null values, rename, group and format field names to make the datasets usable. I came up with some ideas based on the cleaned data to create story arcs. However, I relaized the story were missing logical connection, especially an important element, call for action. I need more data sets to construct a complete story. Luckily, I find another data set [Video Games Released in 2022](https://www.kaggle.com/datasets/mattop/video-games-released-in-2022) with new vidieo games released in 2022 and their genres. With the popularity (by count of games being played and playing), sales and new release data, I was able to complete the story with four steps: setup, conflicts, resolution and call for action. Visit [Part II Wireframes / storyboards] (https://lihongzhang2023.github.io/portfolio/final-project-part-two) for details. 
 
 # Changes made since Part II
 There are three major improvements based on feedback from the interviewees.  
