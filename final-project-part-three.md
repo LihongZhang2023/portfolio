@@ -1,7 +1,7 @@
 | [home page](https://lihongzhang2023.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-[Shorthand Presentation](https://carnegiemellon.shorthandstories.com/08529f22-41e7-4a2d-a727-9ac2c229d250/index.html)  
+[Presentation - A Data Odyssey through Video Game Trends](https://carnegiemellon.shorthandstories.com/08529f22-41e7-4a2d-a727-9ac2c229d250/index.html)  
 
 My final topic lands to video games after days of research on datasets. Although myself is not a video game player, My teenage son is a regular video game player. Video games are involved in his daily routine and conversation with his friends. With more people are splashing out on games, boosting video game industry to keep on growing and booming. A data story on video games should benefit video games developers for profits and players who are curious to know what kinds of games other people are playing and popularity trends.  
 
@@ -23,7 +23,7 @@ I used bright colors for video games genres in visulazation charts considering t
 As a beginner user of Shorthand, I went through the "try and fail" warm up phrase when designing the final presentation. I chose blue tone for the backgroud of the presentation so that it contrasts with the orange color of the visualizations. Except the 1st and last sections are static, most of sections are either Scrollmation or Scrollpoint. I especially like to use Scrollpoint because it sets the focus of the topics when zooming in or out on an image. It helps audience to follow along and stay engaged.
 
 ## References
-All referenced articles and images are noted on [Shorthand Presentation](https://carnegiemellon.shorthandstories.com/08529f22-41e7-4a2d-a727-9ac2c229d250/index.html)
+All referenced articles and images are noted on [Presentation - A Data Odyssey through Video Game Trends](https://carnegiemellon.shorthandstories.com/08529f22-41e7-4a2d-a727-9ac2c229d250/index.html)
 
 # Final thoughts
 The final project requires unitilizing multiple digital tools and platforms such as Tableau, Github and Shothand etc. for developing and presenting the data story. It was a great opportunity to explore and experiment new ways to present data. Shorthand is a great tool for interactive presentation. I was impressed by its ability to enable creating more dynamic storytelling features. I wish I had more time to dive deeper and create a more interative and compelling data story for the project.
